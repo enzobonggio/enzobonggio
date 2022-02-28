@@ -1,5 +1,5 @@
 [![Header](https://github.com/enzobonggio/enzobonggio/blob/main/header.png?raw=true "Header")](https://www.linkedin.com/in/ebonggio/)
-- 🔭 I’m currently working at **Nubank**
+- 🔭 I’m currently working at **Medialab**
 
 - 🌱 I’m currently learning **IOT, reverse engineer**
 
